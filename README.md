@@ -1,13 +1,19 @@
 # valentimfilho
 # Welcome to My Professional GitHub Page!
 
-Hi, I'm [Your Name], a [Your Profession/Field] passionate about [Your Research Interests].
+Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research Interests].
 
-## 🎓 Courses
+## 🎓 Undergraduate Courses
 - **Course Name 1**: Institution, Year  
   Topics: [List Key Topics]
 - **Course Name 2**: Institution, Year  
   Topics: [List Key Topics]
+## 🎓 Graduate Courses
+- **Course Name 1**: Institution, Year  
+  Topics: [List Key Topics]
+- **Course Name 2**: Institution, Year  
+  Topics: [List Key Topics]
+
 
 ## 💻 Projects
 - **Project Title 1**:  
