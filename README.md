@@ -27,8 +27,11 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
   [Live Demo](https://your-demo-link)
 
 ## 🔬 Research Interests
-- [Research Area 1]: [Brief Description]
-- [Research Area 2]: [Brief Description]
+- [AI in Healthcare ]: [Brief Description]
+- [AI in Smart Cities]: [Brief Description]
+- [AI and IoT Integration]: [Brief Description]
+- [IoT in Medical Applications]: [Brief Description]
+  
 
 ## 📰 Science News
 - [Article Title]: [Brief Summary] ([Link to Article](https://article-link))
