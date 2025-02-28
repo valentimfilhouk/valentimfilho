@@ -5,7 +5,9 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
 
 ## 🎓 Undergraduate Courses
 - **CET-150: Data Processing I (Introduction to Algorithms and Python)**: CETEC-UFRB, 2025.1  
-  Topics: [An introductory course covering fundamental programming concepts and basic algorithms. Topics included variables, selection structures, loops structures,  functions, recursion and data structures (e.g., lists, dictionaries) and files.]
+  Topics: [An introductory course covering fundamental programming concepts and basic algorithms. Topics included variables, selection structures, loops structures,  functions, recursion and data structures (e.g., lists, dictionaries) and files.] ## 📚 Courses
+
+For details about my undergraduate courses, including data processing and introductory programming in Python, check out the [Courses Page](pd1.md).
 - **Course Name 2**: CETEC-UFRB, 2025.1  
   Topics: [List Key Topics]
 ## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (CETEC-UFRB).
