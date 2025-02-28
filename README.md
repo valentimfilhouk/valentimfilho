@@ -8,7 +8,7 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
   Topics: [An introductory course covering fundamental programming concepts and basic algorithms. Topics included variables, loops, functions, recursion and data structures (e.g., lists, dictionaries).and files.]
 - **Course Name 2**: CETEC-UFRB, 2025.1  
   Topics: [List Key Topics]
-## 🎓 Graduate Courses - Master in Electrical and Computer Engineering.
+## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (CETEC-UFRB).
 - **Course Name 1**: CETEC-UFRB, 2025.2   
   Topics: [List Key Topics]
 - **Course Name 2**: Institution, Year  
