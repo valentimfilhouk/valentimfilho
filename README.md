@@ -4,8 +4,8 @@
 Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research Interests].
 
 ## 🎓 Undergraduate Courses
-- **Course Name 1**: Institution, Year  
-  Topics: [List Key Topics]
+- **Data Processing I (Introduction to Algorithms and Python)**: CETEC-UFRB, 2025.1  
+  Topics: [An introductory course covering fundamental programming concepts and basic algorithms. Topics included variables, loops, functions, recursion and data structures (e.g., lists, dictionaries).and files.]
 - **Course Name 2**: Institution, Year  
   Topics: [List Key Topics]
 ## 🎓 Graduate Courses
