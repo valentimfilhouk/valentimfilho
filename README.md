@@ -29,9 +29,13 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
 ## 🔬 Research Interests
 - [AI in Healthcare ]: [Developing machine learning models for disease prediction, diagnosis, and personalized treatment.
 Leveraging multi-omics data to identify biomarkers and therapeutic targets.]
-- [AI in Smart Cities]: [Brief Description]
-- [AI and IoT Integration]: [Brief Description]
-- [IoT in Medical Applications]: [Brief Description]
+- [AI in Smart Cities]: [Designing intelligent systems for urban planning, traffic management, and energy optimization.
+Using IoT sensors and AI to monitor air quality, noise pollution, and waste management.
+Enhancing public safety through AI-driven surveillance and emergency response systems.]
+- [AI and IoT Integration]: [Bridging AI, IoT, and edge computing to enable real-time decision-making in healthcare and smart city applications.Developing scalable solutions for sustainable urban development and healthcare optimization.]
+- [IoT in Medical Applications]: [Designing wearable devices and remote monitoring systems for real-time health tracking.
+Using IoT sensors to monitor vital signs (e.g., heart rate, oxygen saturation) and predict health risks.
+Enhancing telemedicine platforms with IoT-enabled diagnostics and AI-driven insights.]
   
 
 ## 📰 Science News
