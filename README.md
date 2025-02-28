@@ -27,7 +27,8 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
   [Live Demo](https://your-demo-link)
 
 ## 🔬 Research Interests
-- [AI in Healthcare ]: [Brief Description]
+- [AI in Healthcare ]: [Developing machine learning models for disease prediction, diagnosis, and personalized treatment.
+Leveraging multi-omics data to identify biomarkers and therapeutic targets.]
 - [AI in Smart Cities]: [Brief Description]
 - [AI and IoT Integration]: [Brief Description]
 - [IoT in Medical Applications]: [Brief Description]
