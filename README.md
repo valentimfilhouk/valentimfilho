@@ -35,4 +35,4 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
 
 ## 📧 Contact
 - Email: [valentim@ufrb.edu.br](mailto:your-email@example.com)
-- LinkedIn: [https://www.linkedin.com/in/jos%C3%A9-valentim-bb55152bb/](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [https://www.linkedin.com/in/jose-valentim-bb55152bb/](https://www.linkedin.com/in/your-profile)
