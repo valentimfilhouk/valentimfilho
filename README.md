@@ -16,7 +16,7 @@ Focuses on Brazilian IT legislation , including software law and national inform
   
   [Aula 01 - Ética](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputaçãoAula01.pdf)
   ## 📚 Courses
-## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (CETEC-UFRB).
+## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (PPGEEC-CETEC-UFRB).
 - **Course Name 1**: CETEC-UFRB, 2025.2   
   Topics: [List Key Topics]
 - **Course Name 2**: Institution, Year  
