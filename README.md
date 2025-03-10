@@ -9,7 +9,8 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
 
 For details about my undergraduate courses, including data processing and introductory programming in Python, check out the [Courses Page](pd1.md).
 - **Legal Aspects of Computing**: CETEC-UFRB, 2025.1  
-  Topics: [List Key Topics]
+  Topics: [Covers legal foundations (intellectual property, data privacy, civil liability) and ethics in technology .
+Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
   [Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)## 📚 Courses
 ## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (CETEC-UFRB).
 - **Course Name 1**: CETEC-UFRB, 2025.2   
