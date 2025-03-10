@@ -1,7 +1,7 @@
 # Prof. José Valentim (PPGEEC-CETEC-UFRB)
 # Welcome to My Professional GitHub Page!
 
-Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research Interests].
+<!-- Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research Interests]. -->
 
 ## 🎓 Undergraduate Courses
 - **CET-150: Data Processing I (Introduction to Algorithms and Python): CETEC-UFRB, 2025.1**  
