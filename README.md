@@ -8,7 +8,7 @@ Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research
   Topics: [An introductory course covering fundamental programming concepts and basic algorithms. Topics included variables, selection structures, loops structures,  functions, recursion and data structures (e.g., lists, dictionaries) and files.]
 
 For details about my undergraduate courses, including data processing and introductory programming in Python, check out the [Courses Page](pd1.md).
-- **Legal Aspects of Computing**: CETEC-UFRB, 2025.1  
+- **GCET529 - Legal Aspects of Computing**: CETEC-UFRB, 2025.1  
   Topics: [Covers legal foundations (intellectual property, data privacy, civil liability) and ethics in technology .
 Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
 
