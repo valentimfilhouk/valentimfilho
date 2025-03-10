@@ -12,7 +12,9 @@
   Topics: [Covers legal foundations (intellectual property, data privacy, civil liability) and ethics in technology .
 Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
 
-  [Aula 00 - Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)## 📚 Courses
+  [Aula 00 - Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
+  [Aula 01 - Ética]()
+  ## 📚 Courses
 ## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (CETEC-UFRB).
 - **Course Name 1**: CETEC-UFRB, 2025.2   
   Topics: [List Key Topics]
