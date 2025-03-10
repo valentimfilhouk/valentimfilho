@@ -13,7 +13,8 @@
 Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
 
   [Aula 00 - Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
-  [Aula 01 - Ética]()
+  
+  [Aula 01 - Ética](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputaçãoAula01.pdf)
   ## 📚 Courses
 ## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (CETEC-UFRB).
 - **Course Name 1**: CETEC-UFRB, 2025.2   
