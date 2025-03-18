@@ -16,6 +16,8 @@
 Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
 
   [Aula 00 - Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
+
+  [Bibliografia - Computação e Sociedade vol 1](https://github.com/valentimfilhouk/valentimfilho/raw/main/computacao_sociedade_1.pdf)
   
   [Aula 01 - Ética](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputaçãoAula01.pdf)
   ## 📚 Courses
