@@ -18,6 +18,10 @@ Focuses on Brazilian IT legislation , including software law and national inform
   [Aula 00 - Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
 
   [Bibliografia - Computação e Sociedade vol 1](https://github.com/valentimfilhouk/valentimfilho/raw/main/computacao_sociedade_1.pdf)
+
+  [Bibliografia - Computação e Sociedade vol 2](https://github.com/valentimfilhouk/valentimfilho/raw/main/computacao_sociedade_2.pdf)
+
+  [Bibliografia - Computação e Sociedade vol 3](https://github.com/valentimfilhouk/valentimfilho/raw/main/computacao_sociedade_3.pdf)
   
   [Aula 01 - Ética](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputaçãoAula01.pdf)
   ## 📚 Courses
