@@ -3,7 +3,7 @@
 
 <!-- Hi, I'm Jose Valentim, a [Your Profession/Field] passionate about [Your Research Interests]. -->
 
-## 🎓 Undergraduate Courses
+## 🎓 Undergraduate Courses ## 📚 Courses
 - **GCET-150: Data Processing I (Introduction to Algorithms and Python): BCET-CETEC-UFRB, 2025.1**  
   Topics: [An introductory course covering fundamental programming concepts and basic algorithms. Topics included variables, selection structures, loops structures,  functions, recursion and data structures (e.g., lists, dictionaries) and files.]
 
@@ -24,8 +24,8 @@ Focuses on Brazilian IT legislation , including software law and national inform
   [Bibliografia - Computação e Sociedade vol 3](https://github.com/valentimfilhouk/valentimfilho/raw/main/computacao_sociedade_3.pdf)
   
   [Aula 01 - Ética](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputaçãoAula01.pdf)
-  ## 📚 Courses
-## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (PPGEEC-CETEC-UFRB).
+  
+## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (PPGEEC-CETEC-UFRB). ## 📚 Courses
 - **Course Name 1**: CETEC-UFRB, 2025.2   
   Topics: [List Key Topics]
 - **Course Name 2**: Institution, Year  
