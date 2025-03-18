@@ -11,7 +11,7 @@
   Topics: [An introductory course covering fundamental programming concepts and basic algorithms. Topics included variables, selection structures, loops structures,  functions, recursion and data structures (e.g., lists, dictionaries) and files.]
 
 <!-- For details about my undergraduate courses, including data processing and introductory programming in Python, check out the [Courses Page](pd1.md). -->
-- **GCET-529: Legal Aspects of Computing: Engenharia de Computação-CETEC-UFRB, 2025.1**  
+- **GCET-529: Legal Aspects of Computing: Computing Engineering-CETEC-UFRB, 2025.1**  
   Topics: [Covers legal foundations (intellectual property, data privacy, civil liability) and ethics in technology .
 Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
 
