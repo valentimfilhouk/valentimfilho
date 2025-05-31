@@ -26,8 +26,16 @@ Focuses on Brazilian IT legislation , including software law and national inform
   [Aula 01 - Ética](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputaçãoAula01.pdf)
   
 ## 🎓 Graduate Courses - Master in Electrical and Computer Engineering (PPGEEC-CETEC-UFRB). ## 📚 Courses
-- **Course Name 1**: CETEC-UFRB, 2025.2   
-  Topics: [List Key Topics]
+- **Computational Intelligence applied to Engineering**: CETEC-UFRB, 2025.2   
+  Topics: [Introduction to Computational Intelligence and Artificial Intelligence; Artificial Neural Networks:
+artificial neuron, perceptron, adaline, multilayer perceptron networks, introduction to
+learning, artificial neural networks applied to engineering; Fuzzy Systems: fuzzy logic, fuzzy control
+fuzzy logic, fuzzy control, decision making, neuro-fuzzy systems, fuzzy systems applied to engineering
+Evolutionary Computation: evolutionary algorithms, bioinspired algorithms;
+evolutionary optimization, evolutionary computing applied to engineering. Intelligent
+system design applied to practical engineering problems.
+
+Translated with www.DeepL.com/Translator (free version)]
 - **Course Name 2**: Institution, Year  
   Topics: [List Key Topics]
 
