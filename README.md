@@ -33,9 +33,9 @@ learning, artificial neural networks applied to engineering; Fuzzy Systems: fuzz
 fuzzy logic, fuzzy control, decision making, neuro-fuzzy systems, fuzzy systems applied to engineering
 Evolutionary Computation: evolutionary algorithms, bioinspired algorithms;
 evolutionary optimization, evolutionary computing applied to engineering. Intelligent
-system design applied to practical engineering problems.
+system design applied to practical engineering problems.]
 
-Translated with www.DeepL.com/Translator (free version)]
+
 - **Course Name 2**: Institution, Year  
   Topics: [List Key Topics]
 
