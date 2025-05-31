@@ -41,21 +41,21 @@ system design applied to practical engineering problems.]
 
 
 ## 💻 Projects
-- **NeuroBeep-Educational neurorobotics: a proposal to include children with severe motor disabilities in educational robotics**:
+- **NeuroBeep-Educational neurorobotics: a proposal to include children with severe motor disabilities in educational robotics (2024 - )**:
   Description: [Among humanity’s many innovations, advances in teaching and learning hold some of the greatest significance. Robotics, for instance, has become an increasingly common tool in educational settings, dramatically improving children’s engagement with formal curricula. At the same time, our understanding of the nervous system has progressed remarkably—including breakthroughs like **neurofeedback**, a technique that trains individuals to regulate electrical activity in specific regions of the brain.  
 This project seeks to leverage neurofeedback within a **brain-machine interface** to help children with severe movement difficulties participate in movement-based learning activities, particularly those involving **educational robotics**. By doing so, we aim to translate their movement intentions into actions on a robotics-based learning platform, thereby expanding their educational opportunities and fostering greater social inclusion.]  
   Technologies: [List Tools/Languages]  
   <!-- [Link to Repository](https://github.com/your-repo-link -->
  
 
-- **AI2Health**:  
+- **AI2Health (2025 - )**:  
   Description: [This initiative serves as an umbrella for research projects exploring the application of artificial intelligence (AI)—including machine learning (ML), deep learning, reinforcement learning, and large language models (LLMs)—to advance medical monitoring (IoMT), disease diagnosis/prognosis, and drug discovery.
 By integrating cutting-edge AI techniques, we aim to enhance healthcare outcomes through improved predictive analytics, precision medicine, and accelerated therapeutic development.]  
   Technologies: [List Tools/Languages]
    <!-- [Live Demo](https://your-demo-link) -->
   
 
-- **Valence coding in the visual cortex**:  
+- **Valence coding in the visual cortex (2024 - )**:  
   Description: [
 **Determining the valence of a stimulus**—whether it is perceived as positive or negative—is a fundamental function of the mammalian brain. Over evolution, the brain has developed mechanisms to assign value to stimuli, labeling them as rewarding or aversive. Rewarding stimuli trigger approach behaviors, whereas aversive stimuli provoke defensive responses.  
 Research into how the brain encodes valence has largely focused on deep structures like the nucleus accumbens, a key region involved in processing rewards and aversions. However, how valence is represented in higher cortical areas—or even primary sensory regions like the visual cortex—remains poorly understood. This study explores the hypothesis that valence encoding is distributed across the cortex and depends on specialized functional areas. Early findings suggest that visual cortex neurons consistently participate in reward encoding, raising new questions about their role in valence processing.  
