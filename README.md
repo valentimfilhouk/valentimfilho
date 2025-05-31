@@ -52,14 +52,11 @@ system design applied to practical engineering problems.]
   [Live Demo](https://your-demo-link)
 
 - **Valence coding in the visual cortex**:  
-  Description: [Here’s a more polished and natural-sounding version of your text while preserving its scientific precision:  
-
----  
-
+  Description: [
 **Determining the valence of a stimulus**—whether it is perceived as positive or negative—is a fundamental function of the mammalian brain. Over evolution, the brain has developed mechanisms to assign value to stimuli, labeling them as rewarding or aversive. Rewarding stimuli trigger approach behaviors, whereas aversive stimuli provoke defensive responses.  
 Research into how the brain encodes valence has largely focused on deep structures like the nucleus accumbens, a key region involved in processing rewards and aversions. However, how valence is represented in higher cortical areas—or even primary sensory regions like the visual cortex—remains poorly understood. This study explores the hypothesis that valence encoding is distributed across the cortex and depends on specialized functional areas. Early findings suggest that visual cortex neurons consistently participate in reward encoding, raising new questions about their role in valence processing.  
 The project aims to investigate how the visual cortex encodes valence and integrates this information into behavioral circuits. To address this, we will analyze public datasets alongside new neural recordings obtained using advanced techniques such as silicon probes and Neuropixels in head-fixed, anesthetized mice. Machine learning algorithms will help identify and characterize neuronal activity patterns in the visual cortex associated with valence coding. This approach builds on established methodologies previously applied to object coding in the primary sensory cortex.  
-By uncovering these neural dynamics, this work could provide critical insights into how the brain processes value and guides decision-making in response to sensory input.  
+By uncovering these neural dynamics, this work could provide critical insights into how the brain processes value and guides decision-making in response to sensory input.]
 
 ---  
 
