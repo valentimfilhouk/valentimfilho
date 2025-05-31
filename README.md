@@ -50,7 +50,6 @@ This project seeks to leverage neurofeedback within a **brain-machine interface*
 
 - **AI2Health**:  
   Description: [This initiative serves as an umbrella for research projects exploring the application of artificial intelligence (AI)—including machine learning (ML), deep learning, reinforcement learning, and large language models (LLMs)—to advance medical monitoring (IoMT), disease diagnosis/prognosis, and drug discovery.
-
 By integrating cutting-edge AI techniques, we aim to enhance healthcare outcomes through improved predictive analytics, precision medicine, and accelerated therapeutic development.]  
   Technologies: [List Tools/Languages]
    <!-- [Live Demo](https://your-demo-link) -->
