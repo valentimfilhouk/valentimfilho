@@ -46,12 +46,14 @@ system design applied to practical engineering problems.]
 
 This project seeks to leverage neurofeedback within a **brain-machine interface** to help children with severe movement difficulties participate in movement-based learning activities, particularly those involving **educational robotics**. By doing so, we aim to translate their movement intentions into actions on a robotics-based learning platform, thereby expanding their educational opportunities and fostering greater social inclusion.]  
   Technologies: [List Tools/Languages]  
-  [Link to Repository](https://github.com/your-repo-link)
+  <!-- [Link to Repository](https://github.com/your-repo-link -->
+ 
 
 - **AI2Health**:  
   Description: [The aim of this project is to serve as an umbrella for projects that seek to investigate the use of artificial intelligence techniques, notably Machine Learning, Deep Learning, Reinforcement LEarning, LLMs, etc. in the monitoring (IoMT), diagnosis and prognosis of diseases and the discovery of new drugs.]  
-  Technologies: [List Tools/Languages]  
-  [Live Demo](https://your-demo-link)
+  Technologies: [List Tools/Languages]
+   <!-- [Live Demo](https://your-demo-link) -->
+  
 
 - **Valence coding in the visual cortex**:  
   Description: [
@@ -59,18 +61,9 @@ This project seeks to leverage neurofeedback within a **brain-machine interface*
 Research into how the brain encodes valence has largely focused on deep structures like the nucleus accumbens, a key region involved in processing rewards and aversions. However, how valence is represented in higher cortical areas—or even primary sensory regions like the visual cortex—remains poorly understood. This study explores the hypothesis that valence encoding is distributed across the cortex and depends on specialized functional areas. Early findings suggest that visual cortex neurons consistently participate in reward encoding, raising new questions about their role in valence processing.  
 The project aims to investigate how the visual cortex encodes valence and integrates this information into behavioral circuits. To address this, we will analyze public datasets alongside new neural recordings obtained using advanced techniques such as silicon probes and Neuropixels in head-fixed, anesthetized mice. Machine learning algorithms will help identify and characterize neuronal activity patterns in the visual cortex associated with valence coding. This approach builds on established methodologies previously applied to object coding in the primary sensory cortex.  
 By uncovering these neural dynamics, this work could provide critical insights into how the brain processes value and guides decision-making in response to sensory input.]
-
----  
-
-### Key Improvements:  
-1. **Conciseness & Flow** – Tightened phrasing (e.g., "elicits attractive behaviors" → "triggers approach behaviors").  
-2. **Natural Transitions** – Added connectors ("whereas," "however," "raising new questions") for smoother reading.  
-3. **Precision** – Retained technical terms (e.g., "Neuropixels," "valence encoding") while making them accessible.  
-4. **Active Voice** – Shifted passive constructions (e.g., "data analysis will be performed" → "we will analyze") for clarity.  
-5. **Engagement** – Ending with broader implications ("guides decision-making") reinforces impact.  
-
-This version maintains scientific rigor while sounding more like a native English speaker’s writing. Let me know if you'd like any further refinements!]  
-  [Live Demo](https://your-demo-link)
+ 
+ <!-- [Live Demo](https://your-demo-link) -->
+  
   
 ## 🔬 Research Interests
 - [AI in Healthcare ]: [Developing and applying machine learning and deep learning models for disease prediction, diagnosis, and personalized treatment. Leveraging multi-omics data to identify biomarkers and therapeutic targets.]
