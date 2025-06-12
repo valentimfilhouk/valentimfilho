@@ -47,6 +47,8 @@ This project seeks to leverage neurofeedback within a **brain-machine interface*
   Technologies: [List Tools/Languages]
   
 [Edital de Seleção Bolsas SET-I:](https://github.com/valentimfilhouk/valentimfilho/raw/main/EditalBolsasSET-I.pdf)
+
+[Formulário de Inscrição Projeto NeuroAssist/NeuroBeep](https://docs.google.com/forms/d/e/1FAIpQLSeAfTimOcWyYNRla2gOJVaXDFleP5TMy9wrDHPqM9HGzLn3uw/viewform?usp=header)
   <!-- [Link to Repository](https://github.com/your-repo-link -->
  
 
