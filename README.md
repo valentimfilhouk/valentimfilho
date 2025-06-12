@@ -46,8 +46,7 @@ system design applied to practical engineering problems.]
 This project seeks to leverage neurofeedback within a **brain-machine interface** to help children with severe movement difficulties participate in movement-based learning activities, particularly those involving **educational robotics**. By doing so, we aim to translate their movement intentions into actions on a robotics-based learning platform, thereby expanding their educational opportunities and fostering greater social inclusion.]  
   Technologies: [List Tools/Languages]
   
-[Edital de Seleção Bolsas SET-I:]
-(https://github.com/valentimfilhouk/valentimfilho/raw/main/EditalBolsasSET-I.pdf)
+[Edital de Seleção Bolsas SET-I:](https://github.com/valentimfilhouk/valentimfilho/raw/main/EditalBolsasSET-I.pdf)
   <!-- [Link to Repository](https://github.com/your-repo-link -->
  
 
