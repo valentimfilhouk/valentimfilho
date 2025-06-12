@@ -15,7 +15,7 @@
   Topics: [Covers legal foundations (intellectual property, data privacy, civil liability) and ethics in technology .
 Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
 
-  [Edital de Seleção Bolsas SET-I](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
+  [Apresentação da componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
 
   [Bibliografia - Computação e Sociedade vol 1](https://github.com/valentimfilhouk/valentimfilho/raw/main/computacao_sociedade_1.pdf)
 
@@ -46,7 +46,7 @@ system design applied to practical engineering problems.]
 This project seeks to leverage neurofeedback within a **brain-machine interface** to help children with severe movement difficulties participate in movement-based learning activities, particularly those involving **educational robotics**. By doing so, we aim to translate their movement intentions into actions on a robotics-based learning platform, thereby expanding their educational opportunities and fostering greater social inclusion.]  
   Technologies: [List Tools/Languages]
   
-Edital de Seleção Bolsas SET-I: 
+[Edital de Seleção Bolsas SET-I:]
 (https://github.com/valentimfilhouk/valentimfilho/raw/main/EditalBolsasSET-I.pdf)
   <!-- [Link to Repository](https://github.com/your-repo-link -->
  
