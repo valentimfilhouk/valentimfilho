@@ -15,7 +15,7 @@
   Topics: [Covers legal foundations (intellectual property, data privacy, civil liability) and ethics in technology .
 Focuses on Brazilian IT legislation , including software law and national informatics policies. The aim is Equip students to address legal/ethical challenges in tech aligned with Brazilian regulations.]
 
-  [Aula 00 - Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
+  [Edital de Seleção Bolsas SET-I](https://github.com/valentimfilhouk/valentimfilho/raw/main/AspectosLegaisPComputação.pdf)
 
   [Bibliografia - Computação e Sociedade vol 1](https://github.com/valentimfilhouk/valentimfilho/raw/main/computacao_sociedade_1.pdf)
 
