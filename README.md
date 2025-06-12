@@ -44,7 +44,8 @@ system design applied to practical engineering problems.]
 - **NeuroBeep-Educational neurorobotics: a proposal to include children with severe motor disabilities in educational robotics (2024 - )**:
   Description: [Among humanity’s many innovations, advances in teaching and learning hold some of the greatest significance. Robotics, for instance, has become an increasingly common tool in educational settings, dramatically improving children’s engagement with formal curricula. At the same time, our understanding of the nervous system has progressed remarkably—including breakthroughs like **neurofeedback**, a technique that trains individuals to regulate electrical activity in specific regions of the brain.  
 This project seeks to leverage neurofeedback within a **brain-machine interface** to help children with severe movement difficulties participate in movement-based learning activities, particularly those involving **educational robotics**. By doing so, we aim to translate their movement intentions into actions on a robotics-based learning platform, thereby expanding their educational opportunities and fostering greater social inclusion.]  
-  Technologies: [List Tools/Languages]  
+  Technologies: [List Tools/Languages]
+Edital de Seleção Bolsas SET-I:  [Aula 00 - Apresentação da Componente](https://github.com/valentimfilhouk/valentimfilho/raw/main/EditalBolsasSET-I.pdf)
   <!-- [Link to Repository](https://github.com/your-repo-link -->
  
 
